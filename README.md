@@ -3,7 +3,7 @@
 # 🧠 ProvnAI
 ### **Refining Accountable Intelligence**
 
-[![Website](https://img.shields.io/badge/Website-provnai.com-6366f1?style=for-the-badge)](https://www.provnai.com)
+[![Website](https://img.shields.io/badge/Website-provnai.com-6366f1?style=for-the-badge)](https://provnai.com/)
 [![Docs](https://img.shields.io/badge/Docs-provnai.dev-22d3ee?style=for-the-badge)](https://www.provnai.dev)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/xdwZez2SzD)
 [![X](https://img.shields.io/badge/X-@provnai-000000?style=for-the-badge&logo=x)](https://x.com/provnai)
