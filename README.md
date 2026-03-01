@@ -26,10 +26,10 @@ Today’s AI agents often feel like **black boxes**. They can hallucinate or dri
 | **Identity** | **[Provn-SDK](https://github.com/provnai/provn-sdk)** | Sovereign cryptographic signing and permanent data anchoring. | `LIVE` |
 | **Evaluation** | **[VEX-HALT](https://github.com/provnai/vex-halt)** | Standardized benchmark tool for calibrating AI verification. | `LIVE` |
 | **Demo** | **[VexEvolve](https://vexevolve.com)** | Autonomous AI newsroom demonstrating evolutionary verification. | `LIVE` |
+| **Interception** | **[McpVanguard](https://github.com/provnai/McpVanguard)** | Real-time security proxy and verification buffer for agent tooling. | `LIVE` |
 | **Studio** | **Agentic Studio** | Visual development environment for building and monitoring agents. | `RESEARCH` |
 | **Settlement** | **Verifiable Settlement** | API and decentralized Arweave batching for verifiable anchoring. | `RESEARCH` |
 | **Environment** | **Action Attestation** | OS-level action monitoring via hardware keys and ZK-STARKs. | `RESEARCH` |
-| **Interception** | **Cognitive Interceptor** | Real-time security proxy and verification buffer for agent tooling. | `RESEARCH` |
 | **Compute** | **Verified Compute** | Hybrid browser/native system exploring decentralized processing. | `RESEARCH` |
 | **Evolution** | **Agentic Evolution** | Research into verifiable, recursive self-improving agent loops. | `RESEARCH` |
 | **Harmony** | **Collective Harmony** | Rules-as-Code research for automated institutional alignment. | `RESEARCH` |
