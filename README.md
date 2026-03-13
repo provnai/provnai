@@ -46,7 +46,6 @@ Today’s AI agents often feel like **black boxes**. They can hallucinate or dri
 
 <div align="center">
 
-Made with 🔥 by the **Open Research Initiative**  
 *Infrastructure for Accountable Intelligence*
 
 <br>
