@@ -45,7 +45,6 @@ Today’s AI agents often feel like **black boxes**. They can hallucinate or dri
 <div align="center">
 
 *Infrastructure for Accountable Intelligence*
-
 <br>
 <p align="center">
   <sub><i>Architected by intuition. Engineered by AI.</i></sub>
