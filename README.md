@@ -42,8 +42,6 @@ Today’s AI agents often feel like **black boxes**. They can hallucinate or dri
 
 ---
 
-**"We are building the immune system the agentic era needs."**
-
 <div align="center">
 
 *Infrastructure for Accountable Intelligence*
