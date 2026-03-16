@@ -9,7 +9,7 @@
 [![X](https://img.shields.io/badge/X-@provnai-000000?style=for-the-badge&logo=x)](https://x.com/provnai)
 [![Support](https://img.shields.io/badge/Patreon-Support_the_Mission-F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/provnai)
 
-**An open research explore dedicated to verifying the thoughts and actions of autonomous agents.**
+**An open research initiative dedicated to verifying the thoughts and actions of autonomous agents.**
 
 ---
 
@@ -22,12 +22,14 @@ Today’s AI agents often feel like **black boxes**. They can hallucinate or dri
 
 | Layer | Project | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **Cognitive** | **[VEX Protocol](https://github.com/provnai/vex)** | Core Rust framework (17 crates) providing trust primitives for AI. | `LIVE` (v1.0.0) |
-| **Environment** | **[Attest](https://github.com/provnai/attest)** | Moved into VEX | `LIVE` |
+| **Cognitive** | **[VEX Protocol](https://github.com/provnai/vex)** | Core Rust framework (17 crates) providing trust primitives for AI. | `LIVE` (v1.5.0) |
+| **Forensic** | **[VEX Explorer](https://github.com/provnai/vex-explorer)** | Client-side forensic tool for mathematical integrity of VEPs. | `LIVE` (v1.5.0) |
+| **SDK** | **[VEX-SDK](https://github.com/provnai/vex-sdk)** | Unified Python/TS interface for hardware-rooted cognitive routing. | `LIVE` (v1.5.0) |
 | **Identity** | **[Provn-SDK](https://github.com/provnai/provn-sdk)** | Sovereign cryptographic signing and permanent data anchoring. | `LIVE` |
-| **Evaluation** | **[VEX-HALT](https://github.com/provnai/vex-halt)** | Standardized benchmark tool for calibrating AI verification. | `Paused` |
+| **Interception** | **[McpVanguard](https://github.com/provnai/McpVanguard)** | Real-time security proxy and verification buffer for agent tooling. | `LIVE` (v1.5.0) |
+| **Environment** | **[Attest](https://github.com/provnai/attest)** | Hardware-sealed identity and provenance (Integrated into VEX). | `LIVE` (v1.5) |
 | **Demo** | **[VexEvolve](https://vexevolve.com)** | Autonomous AI newsroom demonstrating evolutionary verification. | `LIVE` |
-| **Interception** | **[McpVanguard](https://github.com/provnai/McpVanguard)** | Real-time security proxy and verification buffer for agent tooling. | `LIVE` |
+| **Evaluation** | **[VEX-HALT](https://github.com/provnai/vex-halt)** | Standardized benchmark tool for calibrating AI verification. | `PAUSED` |
 | **Studio** | **Agentic Studio** | Visual development environment for building and monitoring agents. | `RESEARCH` |
 | **Compute** | **Verified Compute** | Hybrid browser/native system exploring decentralized processing. | `RESEARCH` |
 | **Evolution** | **Agentic Evolution** | Research into verifiable, recursive self-improving agent loops. | `RESEARCH` |
@@ -38,7 +40,7 @@ Today’s AI agents often feel like **black boxes**. They can hallucinate or dri
 ### 🤝 Get Involved
 *   **Learn More**: [Read the Docs](https://www.provnai.dev) • [Explore VEX](https://github.com/provnai/vex) • Star the repos.
 *   **Support**: Help keep this initiative independent via [Patreon](https://www.patreon.com/cw/provnai).
-*  **Discord**: Join the [community](https://discord.gg/xdwZez2SzD) for discussion.
+*   **Discord**: Join the [community](https://discord.gg/xdwZez2SzD) for discussion.
 
 ---
 
