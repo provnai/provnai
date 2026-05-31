@@ -5,13 +5,26 @@
 ### Security infrastructure for autonomous AI agents
 
 [![Website](https://img.shields.io/badge/Website-provnai.com-6366f1?style=for-the-badge)](https://www.provnai.com)
-[![Docs](https://img.shields.io/badge/Docs-docs.provnai.dev-22d3ee?style=for-the-badge)](https://www.provnai.dev)
+[![Docs](https://img.shields.io/badge/Docs-www.provnai.dev-22d3ee?style=for-the-badge)](https://www.provnai.dev)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/xdwZez2SzD)
 [![X](https://img.shields.io/badge/X-@provnai-000000?style=for-the-badge&logo=x)](https://x.com/provnai)
 
 </div>
 
 Prevent unauthorized agent actions, enforce policy before execution, and produce audit-ready evidence for regulated AI deployments.
+
+---
+
+## What's in this repository
+
+This is the umbrella workspace for ProvnAI projects.
+
+| Path | What it is | Status |
+|------|------------|--------|
+| `McpVanguard/` | MCP security layer — open-source, installable | `LIVE` |
+| `vexprotocol/` | Execution governance runtime | `Pilot` |
+| `provnai.com/` | Public website and content | `LIVE` |
+| `provncloud/` | Anchoring, evidence, and backend services | `Internal` |
 
 ---
 
@@ -34,13 +47,21 @@ vanguard start --config vanguard.yaml
 
 ## 🔐 VEX Protocol — Execution Governance
 
-**Review and approve high-risk agent actions before they execute. Every decision is recorded with tamper-evident evidence your auditors can verify independently.**
+**Review and approve high-risk agent actions before they execute. Designed to record governed execution decisions as cryptographically verifiable evidence for audit and review.**
 
 - Pre-execution authorization outside the model's reasoning path
 - Cryptographically verifiable evidence artifacts
 - Portable, offline audit trails
 
 **Status:** `Pilot` · [Apply for access →](https://www.provnai.com/vex-protocol)
+
+---
+
+## Start here
+
+- **Evaluating MCP security** → Start with [McpVanguard](https://github.com/provnai/McpVanguard)
+- **Interested in governed execution** → See [VEX Protocol](https://www.provnai.com/vex-protocol)
+- **Looking for docs** → [www.provnai.dev](https://www.provnai.dev)
 
 ---
 
@@ -52,8 +73,15 @@ vanguard start --config vanguard.yaml
 
 ---
 
+## Licensing
+
+Licensing varies by project:
+- **McpVanguard** — MIT
+- **VEX Protocol** — See project-specific terms / pilot access status
+- **Other components** — See individual repository LICENSE files
+
+---
+
 <div align="center">
 
-**MIT / Apache 2.0**
 
-</div>
