@@ -1,55 +1,59 @@
 <div align="center">
 
-# 🧠 ProvnAI
-### **Refining Accountable Intelligence**
+# ProvnAI
 
-[![Website](https://img.shields.io/badge/Website-provnai.com-6366f1?style=for-the-badge)](https://provnai.com/)
-[![Docs](https://img.shields.io/badge/Docs-provnai.dev-22d3ee?style=for-the-badge)](https://www.provnai.dev)
+### Security infrastructure for autonomous AI agents
+
+[![Website](https://img.shields.io/badge/Website-provnai.com-6366f1?style=for-the-badge)](https://www.provnai.com)
+[![Docs](https://img.shields.io/badge/Docs-docs.provnai.dev-22d3ee?style=for-the-badge)](https://www.provnai.dev)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/xdwZez2SzD)
 [![X](https://img.shields.io/badge/X-@provnai-000000?style=for-the-badge&logo=x)](https://x.com/provnai)
-[![Support](https://img.shields.io/badge/Patreon-Support_the_Mission-F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/provnai)
 
-**An open research initiative dedicated to verifying the thoughts and actions of autonomous agents.**
+</div>
 
----
-
-### 🛡️ The Context
-Today’s AI agents often feel like **black boxes**. They can hallucinate or drift, and it's difficult for them to prove how they reached a decision. ProvnAI is a community-driven initiative exploring the **Trust Layers** needed to make agentic decisions more verifiable and secure.
+Prevent unauthorized agent actions, enforce policy before execution, and produce audit-ready evidence for regulated AI deployments.
 
 ---
 
-### 🧩 The Stack
+## 🛡️ McpVanguard — MCP Security Layer
 
-| Layer | Project | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **Cognitive** | **[VEX Protocol](https://github.com/provnai/vex)** | Core Rust framework (17 crates) providing trust primitives for AI. | `LIVE` (v1.7.0) |
-| **Forensic** | **[VEX Explorer](https://github.com/provnai/vex-explorer)** | Client-side forensic tool for mathematical integrity of VEPs. | `LIVE` (v1.5.0) |
-| **SDK** | **[VEX-SDK](https://github.com/provnai/vex-sdk)** | Unified Python/TS interface for hardware-rooted cognitive routing. | `LIVE` (v1.5.0) |
-| **Identity** | **[Provn-SDK](https://github.com/provnai/provn-sdk)** | Sovereign cryptographic signing and permanent data anchoring. | `LIVE` |
-| **Interception** | **[McpVanguard](https://github.com/provnai/McpVanguard)** | Real-time security proxy and verification buffer for agent tooling. | `LIVE` |
-| **Environment** | **[Attest](https://github.com/provnai/attest)** | Hardware-sealed identity and provenance (Integrated into VEX). |  |
-| **Demo** | **[VexEvolve](https://vexevolve.com)** | Autonomous AI newsroom demonstrating evolutionary verification. | `LIVE` |
-| **Evaluation** | **[VEX-HALT](https://github.com/provnai/vex-halt)** | Standardized benchmark tool for calibrating AI verification. | `PAUSED` |
-| **Studio** | **Agentic Studio** | Visual development environment for building and monitoring agents. | `RESEARCH` |
-| **Compute** | **Verified Compute** | Hybrid browser/native system exploring decentralized processing. | `RESEARCH` |
-| **Evolution** | **Agentic Evolution** | Research into verifiable, recursive self-improving agent loops. | `RESEARCH` |
-| **Harmony** | **Collective Harmony** | Rules-as-Code research for automated institutional alignment. | `RESEARCH` |
+**Block injection, unauthorized access, and unsafe tool calls before agents reach your production systems.**
+
+```bash
+pip install mcp-vanguard
+vanguard start --config vanguard.yaml
+```
+
+- **Rules Engine** — Block known attack patterns without model judgment
+- **Semantic Scorer** — Detect evasion attempts signature rules miss
+- **Behavioral Monitoring** — Spot unusual session patterns before they escalate
+
+**Status:** `LIVE` · [GitHub](https://github.com/provnai/McpVanguard) · MIT License
 
 ---
 
-### 🤝 Get Involved
-*   **Learn More**: [Read the Docs](https://www.provnai.dev) • [Explore VEX](https://github.com/provnai/vex) • Star the repos.
-*   **Support**: Help keep this initiative independent via [Patreon](https://www.patreon.com/cw/provnai).
-*   **Discord**: Join the [community](https://discord.gg/xdwZez2SzD) for discussion.
+## 🔐 VEX Protocol — Execution Governance
+
+**Review and approve high-risk agent actions before they execute. Every decision is recorded with tamper-evident evidence your auditors can verify independently.**
+
+- Pre-execution authorization outside the model's reasoning path
+- Cryptographically verifiable evidence artifacts
+- Portable, offline audit trails
+
+**Status:** `Pilot` · [Apply for access →](https://www.provnai.com/vex-protocol)
+
+---
+
+## Resources
+
+- [Documentation](https://www.provnai.dev)
+- [Security Research](https://www.provnai.com/research)
+- [Compliance & Governance](https://www.provnai.com/compliance)
 
 ---
 
 <div align="center">
 
-*Infrastructure for Accountable Intelligence*
-<br>
-<p align="center">
-  <sub><i>Architected by intuition. Engineered by AI.</i></sub>
-</p>
+**MIT / Apache 2.0**
 
 </div>
