@@ -11,7 +11,7 @@
 
 </div>
 
-Prevent unauthorized agent actions, enforce policy before execution, and produce audit-ready evidence for regulated AI deployments.
+ProvnAI builds runtime security and execution-governance infrastructure for autonomous AI agents.
 
 ---
 
@@ -22,9 +22,9 @@ This is the umbrella workspace for ProvnAI projects.
 | Path | What it is | Status |
 |------|------------|--------|
 | `McpVanguard/` | MCP security layer — open-source, installable | `LIVE` |
-| `vexprotocol/` | Execution governance runtime | `Pilot` |
+| `vex/` | Governed execution and authorization runtime | `Pilot` |
 | `provnai.com/` | Public website and content | `LIVE` |
-| `provncloud/` | Anchoring, evidence, and backend services | `Internal` |
+| `provncloud/` | Anchoring, evidence, and backend services | `Service layer` |
 
 ---
 
@@ -75,13 +75,15 @@ vanguard start --config vanguard.yaml
 
 ## Licensing
 
-Licensing varies by project:
+Licensing and access terms vary by project:
 - **McpVanguard** — MIT
-- **VEX Protocol** — See project-specific terms / pilot access status
-- **Other components** — See individual repository LICENSE files
+- **VEX Protocol** — pilot / project-specific access terms
+- **Other components** — see the relevant project directory or repository
 
 ---
 
 <div align="center">
+
+
 
 
